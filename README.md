@@ -10,3 +10,6 @@ This is the change from eclipse.
 some more changes from eclipse env.
 
 this is the change in local_test_branch.
+
+this is [doc1](doc/doc1.md)
+this is [doc2](doc/doc2.md)
